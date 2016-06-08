@@ -1,0 +1,5 @@
+name = Image Popup
+description = Open node image as popup
+dependencies[] = jquery_update
+version = VERSION
+core = 7.x
