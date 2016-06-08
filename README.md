@@ -4,7 +4,7 @@ This module provides a field formatter to popup an image while click on it. An i
 
 Installation for Image popup
 
-Download and install the jquery update module(https://www.drupal.org/project/jquery_update) and the image popup module(https://github.com/richaporwal/image-popup) as normal.
+Download and install the jquery update module(https://www.drupal.org/project/jquery_update) and the image popup module(https://www.drupal.org/sandbox/erricha/2744283) as normal.
 
 
 Development
